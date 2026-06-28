@@ -1,0 +1,25 @@
+Programming Languages:
+- C++ (Intermediate)
+- Python (Intermediate)
+- Java (Beginner)
+
+Frameworks:
+- Streamlit
+
+Database:
+- SQL
+
+Development Tools:
+- Visual Studio Code
+- Git
+- GitHub
+- Ubuntu Linux
+- VirtualBox
+- Linux
+
+Technical Skills:
+- Object-Oriented Programming
+- Problem Solving
+- Algorithm Design
+- Artificial Intelligence
+- Machine Learning Fundamentals

@@ -1,0 +1,38 @@
+Name:
+Fabiha Fatima
+
+Education:
+Bachelor of Software Engineering
+University of Management and Technology
+
+Programming Languages:
+C++
+Python
+Java
+
+Framework:
+Streamlit
+
+Database:
+SQL
+
+Operating Systems:
+Ubuntu Linux
+Linux
+
+Development Tools:
+Git
+GitHub
+VirtualBox
+Visual Studio Code
+
+Project:
+AI Crop Disease Detection System using CNN and Streamlit.
+
+Interests:
+Artificial Intelligence
+Machine Learning
+Cybersecurity
+
+Career Objective:
+To become a software engineer capable of building innovative software products that solve meaningful real-world problems.

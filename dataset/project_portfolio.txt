@@ -1,0 +1,28 @@
+Project Portfolio
+
+Project:
+AI Crop Disease Detection System
+
+Category:
+Artificial Intelligence
+Machine Learning
+Deep Learning
+
+Problem:
+Farmers often struggle to identify crop diseases quickly, leading to delays in treatment.
+
+Solution:
+Developed a CNN-based application that predicts crop diseases from uploaded images and recommends treatments.
+
+Technologies Used:
+Python
+CNN
+Streamlit
+
+Skills Demonstrated:
+Deep Learning
+Image Classification
+Python Programming
+Machine Learning
+Problem Solving
+Software Development

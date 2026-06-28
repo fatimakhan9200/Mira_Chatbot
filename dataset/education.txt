@@ -1,0 +1,20 @@
+University:
+University of Management and Technology (UMT)
+
+Degree:
+Bachelor of Software Engineering
+
+Current Semester:
+5th Semester
+
+Expected Graduation:
+2028
+
+Relevant Coursework:
+- Object-Oriented Programming (OOP)
+- Data Structures and Algorithms (DSA)
+- Artificial Intelligence (AI)
+- Operating Systems (OS)
+
+Favorite Subjects:
+Object-Oriented Programming and Operating Systems because they improve problem-solving skills and provide a strong understanding of software design and system-level programming.

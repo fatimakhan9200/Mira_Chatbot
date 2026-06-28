@@ -1,0 +1,23 @@
+Project Name:
+AI Crop Disease Detection System
+
+Description:
+The AI Crop Disease Detection System is a deep learning-based application developed to help farmers identify diseases affecting crops.
+
+Technology Stack:
+- Python
+- CNN (Convolutional Neural Network)
+- Streamlit
+
+Project Overview:
+The user uploads an image of a crop leaf through the Streamlit interface. The CNN model analyzes the image and predicts the disease affecting the crop. Based on the prediction, the system also provides a recommended treatment or ointment to help farmers manage the disease.
+
+Features:
+- Image upload
+- Disease prediction
+- Deep learning image classification
+- Treatment recommendation
+- User-friendly Streamlit interface
+
+My Role:
+I developed the application, integrated the deep learning model, and designed the user interface.

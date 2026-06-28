@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+My name is Fabiha Fatima, and I am currently pursuing a Bachelor's degree in Software Engineering at the University of Management and Technology.
+
+I am passionate about software engineering, artificial intelligence, and developing solutions that solve real-world problems. My academic journey has provided me with experience in C++, Python, Java, SQL, and Streamlit.
+
+One of my notable projects is an AI Crop Disease Detection System that uses a Convolutional Neural Network to identify crop diseases and recommend treatments through a Streamlit application.
+
+I consider myself a quick learner with strong critical thinking and problem-solving skills. I enjoy learning new technologies and continuously improving my abilities.
+
+I would appreciate the opportunity to contribute my enthusiasm and technical skills to your organization while continuing to grow as a software engineer.
+
+Thank you for your consideration.
+
+Sincerely,
+
+Fabiha Fatima

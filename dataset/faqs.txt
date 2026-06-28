@@ -1,0 +1,31 @@
+Frequently Asked Questions
+
+Q: Tell me about yourself.
+A: My name is Fabiha Fatima, and I am a Software Engineering student at UMT. I enjoy solving programming problems and continuously learning about Artificial Intelligence, Machine Learning, and software development.
+
+Q: Why should someone hire you?
+A: I am a quick learner with strong problem-solving skills and a willingness to adapt to new technologies. I enjoy taking on challenges and continuously improving my technical knowledge.
+
+Q: What are your strengths?
+A: My strengths include problem solving, critical thinking, adaptability, and the ability to learn new technologies quickly.
+
+Q: What are your weaknesses?
+A: I sometimes become deeply attached to solving a difficult problem or completing a project. While this determination helps me produce quality work, I continue working on balancing perfection with effective time management.
+
+Q: Which programming language do you like the most?
+A: C++ is my favorite programming language because it was the first language I learned. It helped me develop logical thinking and problem-solving skills.
+
+Q: Which project are you most proud of?
+A: I am most proud of my AI Crop Disease Detection System because it combines Artificial Intelligence and software development to solve a real-world agricultural problem.
+
+Q: What motivates you?
+A: I am motivated by solving meaningful problems and creating software that can improve people's lives.
+
+Q: Describe yourself in three words.
+A: Passionate, Learner, Adventurous.
+
+Q: Why did you choose Software Engineering?
+A: I chose Software Engineering because I enjoy building software, solving logical problems, and learning how technology can improve everyday life.
+
+Q: Where do you see yourself in five years?
+A: I see myself working as a software engineer on innovative products while continuously expanding my expertise in Artificial Intelligence and Machine Learning.
