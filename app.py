@@ -13,7 +13,12 @@ from langchain_core.runnables import RunnablePassthrough
 # ----------------------------
 load_dotenv()
 
-API_KEY = os.getenv("GOOGLE_API_KEY")
+try:
+    # Streamlit Cloud
+    API_KEY = st.secrets["GOOGLE_API_KEY"]
+except Exception:
+    # Local .env file
+    API_KEY = os.getenv("GOOGLE_API_KEY")
 
 # ----------------------------
 # Streamlit Page
